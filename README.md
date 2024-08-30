@@ -1,2 +1,2 @@
 # QQuack
-2D Platformer
+Game Jam 2024
